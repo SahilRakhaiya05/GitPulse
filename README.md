@@ -1,5 +1,8 @@
 # GitPulse
 
+<img width="1919" height="860" alt="GitPulse" src="https://github.com/user-attachments/assets/b626d6f5-f22f-487e-a654-4904fb457cc0" />
+
+---
 A professional GitHub analytics dashboard for teams that want a clear, modern view of repository health, delivery flow, and activity trends. GitPulse is built with Next.js App Router, TypeScript, Tailwind CSS, TanStack Query, Recharts, and a compact component system, and it is designed to feel like a real product you can launch, extend, and grow over time.
 
 ## Product Summary
